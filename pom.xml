@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>alex.study.designpattern</groupId>
+    <artifactId>design-patterns</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <name>Design-Patterns</name>
+    <description>聚合服务</description>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>design-principle</module>
+        <module>design-singleton</module>
+        <module>design-simplefactory</module>
+        <module>design-factorymethod</module>
+        <module>disign-abstractfactory</module>
+        <module>design-prototype</module>
+        <module>design-builder</module>
+        <module>design-adapter</module>
+        <module>design-bridge</module>
+        <module>disign-decorator</module>
+        <module>design-composite</module>
+        <module>design-facade</module>
+        <module>design-flyweight</module>
+        <module>design-proxy</module>
+        <module>design-template</module>
+        <module>design-command</module>
+        <module>design-visitor</module>
+        <module>design-iterator</module>
+        <module>design-observer</module>
+        <module>disign-mediator</module>
+        <module>design-memento</module>
+        <module>design-state</module>
+        <module>design-strategy</module>
+        <module>design-responsibilitychain</module>
+    </modules>
+
+</project>
